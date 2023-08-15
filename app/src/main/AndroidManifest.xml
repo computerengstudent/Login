@@ -15,18 +15,16 @@
         <activity
             android:name=".ResultActivity"
             android:exported="false" />
+
         <activity
             android:name=".EmailSignupActivity"
             android:exported="false" />
         <activity
             android:name=".GoogleSignupActivity"
             android:exported="false" />
-        <activity
-            android:name=".SignUpActivity"
-            android:exported="false" />
-        <activity
-            android:name=".LoginActivity"
-            android:exported="false" />
+
+
+
         <activity
             android:name=".MainActivity"
             android:exported="true">
